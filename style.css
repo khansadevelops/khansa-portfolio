@@ -1,0 +1,136 @@
+body{
+    background-color: rgba(0, 0, 255, 0.183);
+    font-family: Lexend;
+}
+
+
+nav{
+
+    margin: x; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cornflowerblue;
+    height: 50px;
+}
+    
+.logo{
+    font-size: 26px;
+    font-weight: bold;
+    color: rgb(100, 111, 237);
+    background-color: white;
+    border-radius: 50%;
+    padding: 6px;
+    margin: 10px;
+
+}
+.nav-links{
+    color: white;
+    font-size: 22px;
+    margin: 8px;
+    border: 0;
+    text-decoration: none;
+    
+    
+    
+}
+
+.home-section{
+    
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    
+}
+.home-content{
+ 
+    font-size: 20px;
+    align-items: center;
+    margin-top: 60px;
+    margin-right: 20%;
+    margin-left: 4%;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+.home-heading{
+    font-style: normal;
+    color: darkblue;
+    
+
+}
+
+
+.home-para{
+  font-style: normal;
+  font-size: 20px;
+  margin-top: 20px;
+  color: darkblue;
+  margin-right: 70px;
+  
+  
+}
+.home-image img{
+    width: 20rem;
+    border-radius: 100%;
+    margin-right: 5rem;
+    height: 13rem;
+    margin-left: 5rem;
+    
+}
+.hero-button{
+    background-color: rgba(137, 43, 226, 0.34);
+    margin-left: 0rem;}
+.hero-btn:hover{
+    background-color: white;
+    color: rgb(66, 9, 9);
+    border: 2px solid rgb(66, 9, 9);
+    cursor: pointer;
+    transform: scale(1.05);
+}
+.About-container{
+    margin-left: 70px;
+    background-color: rgba(220, 43, 226, 0.267);
+    border-radius: 30px;
+    height: 50px;
+    font-size: 10px;
+    display: ;
+    justify-content: flex;
+}
+
+button{
+    font-size: 26px;
+    background-color: rgba(104, 0, 139, 0.313);
+    display: ruby-base;
+    border-radius: 10px;
+    border: 0;
+    margin: 10px;
+    
+}
+
+/* experience-section{
+    background-color: rgba(221, 160, 221, 0.34);
+    margin-left: 4rem;
+    border-radius: 5%;
+    margin-right: 5rem;
+    display: grid; 
+
+
+}
+
+
+
+
+.container{
+    background-color: rgba(221, 160, 221, 0.34);
+    height: auto;
+    padding: 10rem;
+    border-radius: 5rem;
+    color: black;
+    display: grid;
+    text-align: center;
+    grid-template-columns: 30rem 30rem;
+    grid-template-rows: 30rem 30rem;
+    gap: 5%;
+} */
+
